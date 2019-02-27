@@ -1,3 +1,10 @@
 module.exports = {
-  lintOnSave: false
+  lintOnSave: false,
+  outputDir:'dist/public',
+  configureWebpack: {
+    devServer: {
+      historyApiFallback: true
+    }
+  }
+  
 }
