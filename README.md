@@ -1,4 +1,5 @@
-# bakerrpay
+# Bakerr-Pay
+Simple payment disbursement tool using Paystack API 
 
 ## Project setup
 ```
